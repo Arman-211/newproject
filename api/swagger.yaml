@@ -1,0 +1,37 @@
+openapi: 3.0.0
+info:
+  title: My Notebook API
+  version: 1.0.0
+  description: API for managing notebook records
+
+paths:
+  /record/{id}:
+    get:
+      summary: Get a notebook record by ID
+      parameters:
+        - name: id
+          in: path
+          description: ID of the notebook record
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NotebookRecord'
+        '404':
+          description: Not Found
+components:
+  schemas:
+    NotebookRecord:
+      type: object
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        content:
+          type: string

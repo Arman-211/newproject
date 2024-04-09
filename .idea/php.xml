@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/composer" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/my_php_project/vendor/sebastian/version" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/my_php_project/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
