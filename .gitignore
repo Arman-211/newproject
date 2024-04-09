@@ -1,0 +1,36 @@
+# Ignoriraj .DS_Store datoteke koje kreira macOS
+.DS_Store
+
+# Ignoriraj direktorij .idea/
+.idea/
+
+# Ignoriraj direktorij api/
+api/
+
+# Ignoriraj composer.json i composer.lock datoteke
+composer.json
+composer.lock
+
+# Ignoriraj Dockerfile
+Dockerfile
+
+# Ignoriraj README.md datoteku
+README.md
+
+# Ignoriraj docker-compose.yml datoteku
+docker-compose.yml
+
+# Ignoriraj index.php datoteku
+index.php
+
+# Ignoriraj init.sql datoteku
+init.sql
+
+# Ignoriraj swagger-ui/ direktorij
+swagger-ui/
+
+# Ignoriraj tests/ direktorij
+tests/
+
+# Ignoriraj vendor/ direktorij
+vendor/
