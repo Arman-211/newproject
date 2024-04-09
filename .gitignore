@@ -1,3 +1,5 @@
 # Ignoriraj .DS_Store datoteke koje kreira macOS
 .DS_Store
 
+# Ignoriraj vendor/ direktorij
+vendor/
